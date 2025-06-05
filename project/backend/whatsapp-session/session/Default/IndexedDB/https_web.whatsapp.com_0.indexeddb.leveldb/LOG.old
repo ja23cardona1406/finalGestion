@@ -1,0 +1,29 @@
+2025/06/04-22:43:42.298 bdd8 Reusing MANIFEST C:\Users\maura\Downloads\whats\project\backend\whatsapp-session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/04-22:43:42.298 bdd8 Recovering log #640
+2025/06/04-22:43:42.463 bdd8 Reusing old log C:\Users\maura\Downloads\whats\project\backend\whatsapp-session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000640.log 
+2025/06/04-22:43:44.096 bdd8 Level-0 table #653: started
+2025/06/04-22:43:44.115 bdd8 Level-0 table #653: 879471 bytes OK
+2025/06/04-22:43:44.115 bdd8 Delete type=0 #640
+2025/06/04-22:43:44.116 bdd8 Manual compaction at level-0 from '\x00'\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/04-22:43:46.002 bd2c Compacting 1@1 + 9@2 files
+2025/06/04-22:43:46.078 bd2c Generated table #654@1: 62355 keys, 2217499 bytes
+2025/06/04-22:43:46.161 bd2c Generated table #655@1: 38803 keys, 2202634 bytes
+2025/06/04-22:43:46.250 bd2c Generated table #656@1: 56433 keys, 2225747 bytes
+2025/06/04-22:43:46.279 bd2c Generated table #657@1: 4109 keys, 2152642 bytes
+2025/06/04-22:43:46.339 bd2c Generated table #658@1: 17417 keys, 2204513 bytes
+2025/06/04-22:43:46.405 bd2c Generated table #659@1: 34753 keys, 2188456 bytes
+2025/06/04-22:43:46.457 bd2c Generated table #660@1: 38217 keys, 2167772 bytes
+2025/06/04-22:43:46.557 bd2c Generated table #661@1: 108196 keys, 2262310 bytes
+2025/06/04-22:43:46.619 bd2c Generated table #662@1: 69721 keys, 1465409 bytes
+2025/06/04-22:43:46.619 bd2c Compacted 1@1 + 9@2 files => 19086982 bytes
+2025/06/04-22:43:46.619 bd2c compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/06/04-22:43:46.619 bd2c Delete type=2 #642
+2025/06/04-22:43:46.619 bd2c Delete type=2 #643
+2025/06/04-22:43:46.619 bd2c Delete type=2 #644
+2025/06/04-22:43:46.620 bd2c Delete type=2 #645
+2025/06/04-22:43:46.620 bd2c Delete type=2 #646
+2025/06/04-22:43:46.620 bd2c Delete type=2 #647
+2025/06/04-22:43:46.620 bd2c Delete type=2 #648
+2025/06/04-22:43:46.620 bd2c Delete type=2 #649
+2025/06/04-22:43:46.620 bd2c Delete type=2 #650
+2025/06/04-22:43:46.620 bd2c Delete type=2 #653

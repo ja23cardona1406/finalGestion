@@ -1,0 +1,28 @@
+{
+  "name": "agrosoft-whatsapp-simple",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp bot for Agrosoft CM",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run start:backend && npm run start:frontend",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start",
+    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "build": "cd frontend && npm run build",
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm start\""
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "agrosoft"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "agrosoft-whatsapp-simple": "file:",
+    "puppeteer": "^24.10.0"
+  }
+}
