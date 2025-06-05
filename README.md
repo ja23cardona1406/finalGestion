@@ -159,4 +159,4 @@ Estado de conexión con WhatsApp
 
 
 Desarrollado para promoción del Sistema Agrosoft CM
-Optimizando la producción lechera con Inteligencia Artificial 🐄🚀
+Optimizando la producción lechera con Inteligencia Artificial 
