@@ -1,3 +1,6 @@
-2025/06/04-22:43:40.128 bef8 Reusing MANIFEST C:\Users\maura\Downloads\whats\project\backend\whatsapp-session\session\Default\Local Storage\leveldb/MANIFEST-000001
-2025/06/04-22:43:40.129 bef8 Recovering log #4
-2025/06/04-22:43:40.130 bef8 Reusing old log C:\Users\maura\Downloads\whats\project\backend\whatsapp-session\session\Default\Local Storage\leveldb/000004.log 
+2025/06/18-16:34:55.829 3158 Reusing MANIFEST C:\Users\maura\OneDrive\Documents\GitHub\finalGestion\project\backend\whatsapp-session\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/06/18-16:34:55.830 3158 Recovering log #3
+2025/06/18-16:34:55.830 3158 Reusing old log C:\Users\maura\OneDrive\Documents\GitHub\finalGestion\project\backend\whatsapp-session\session\Default\Local Storage\leveldb/000003.log 
+2025/06/18-16:36:57.024 bcf0 Level-0 table #5: started
+2025/06/18-16:36:57.030 bcf0 Level-0 table #5: 20943 bytes OK
+2025/06/18-16:36:57.033 bcf0 Delete type=0 #3

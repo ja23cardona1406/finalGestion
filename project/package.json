@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "agrosoft-whatsapp-simple": "file:",
-    "puppeteer": "^24.10.0"
+    "puppeteer": "^24.10.0",
+    "whatsapp-web.js": "^1.30.0"
   }
 }
