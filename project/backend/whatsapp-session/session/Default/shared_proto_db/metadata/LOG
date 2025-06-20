@@ -1,2 +1,3 @@
-2025/06/18-16:17:22.851 c4b8 Creating DB C:\Users\maura\OneDrive\Documents\GitHub\finalGestion\project\backend\whatsapp-session\session\Default\shared_proto_db\metadata since it was missing.
-2025/06/18-16:17:22.854 c4b8 Reusing MANIFEST C:\Users\maura\OneDrive\Documents\GitHub\finalGestion\project\backend\whatsapp-session\session\Default\shared_proto_db\metadata/MANIFEST-000001
+2025/06/20-15:54:15.139 d1cc Reusing MANIFEST C:\Users\maura\OneDrive\Documents\GitHub\finalGestion\project\backend\whatsapp-session\session\Default\shared_proto_db\metadata/MANIFEST-000001
+2025/06/20-15:54:15.141 d1cc Recovering log #3
+2025/06/20-15:54:15.143 d1cc Reusing old log C:\Users\maura\OneDrive\Documents\GitHub\finalGestion\project\backend\whatsapp-session\session\Default\shared_proto_db\metadata/000003.log 
